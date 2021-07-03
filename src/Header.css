@@ -38,3 +38,7 @@
     margin-right: 35px;
     
 }
+.header_icon:hover{
+	background-color: lightgray;
+	cursor: pointer;
+}

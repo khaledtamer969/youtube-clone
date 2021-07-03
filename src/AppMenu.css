@@ -1,0 +1,8 @@
+.appMenu{
+    position:absolute;
+    top:58px;
+    width:200px;
+    transform: translateX(-45%);
+    padding :1rem;
+    background-color: white;
+}

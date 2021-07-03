@@ -4,6 +4,7 @@ import Header from './Header';
 import SideBar from './SideBar';
 import SearchPage from './SearchPage';
 import Recommended from './Recommeded';
+
 import {BrowserRouter as Router, Switch, Route} from "react-router-dom"; 
 function App() {
   return (
